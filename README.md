@@ -2,5 +2,8 @@
 Scan the Devices IP and MAC address Connect to the Network
 
 Use Instructions:
-*python Network_Scanner   -t IP/IP_Range\n
+*python Network_Scanner   -t IP/IP_Range
+
+
+
 *python Network_Scanner --target IP/IP_Range
